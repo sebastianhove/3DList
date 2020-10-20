@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ThreeDeeList"
+    }
+  },
+  "defaultProject": "ThreeDeeList",
+  "cli": {
+    "analytics": "aefc12fb-bfc6-4ca7-86e4-241eecbcbbc4"
+  }
 }
